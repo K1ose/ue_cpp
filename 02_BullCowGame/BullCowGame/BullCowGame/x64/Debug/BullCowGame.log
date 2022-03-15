@@ -1,0 +1,8 @@
+﻿  BullCowGame.cpp
+D:\Epic Games\Unreal_Projects\02_BullCowGame\BullCowGame\BullCowGame\BullCowGame.cpp(16,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Epic Games\Unreal_Projects\02_BullCowGame\BullCowGame\BullCowGame\BullCowGame.cpp(24,30): warning C4267: “return”: 从“size_t”转换到“int32”，可能丢失数据
+D:\Epic Games\Unreal_Projects\02_BullCowGame\BullCowGame\BullCowGame\BullCowGame.cpp(58,42): warning C4267: “初始化”: 从“size_t”转换到“int32”，可能丢失数据
+  main.cpp
+  正在生成代码...
+D:\Epic Games\Unreal_Projects\02_BullCowGame\BullCowGame\BullCowGame\main.cpp(91): warning C4715: “AskToPlayAgain”: 不是所有的控件路径都返回值
+  BullCowGame.vcxproj -> D:\Epic Games\Unreal_Projects\02_BullCowGame\BullCowGame\x64\Debug\BullCowGame.exe
