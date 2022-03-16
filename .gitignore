@@ -1,16 +1,15 @@
 #############
 ## Folders ##
 #############
-Binaries
-Config
-Content
-DerivedDateCache
-.vs
-Intermediate
-Saved
-Script
+*/Binaries/
+*/Config/
+*/Content/
+*/DerivedDateCache/
+*/Intermediate/
+*/Saved/
+*/Script/
 
 ##########
 ## File ##
 ##########
-*.uproject
+*/*.uproject
